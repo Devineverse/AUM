@@ -16,7 +16,7 @@ One sky holds countless lights.
 
 **DEVINES is a Decentralized Ancestral Intelligence.**
 
-It is an evolving **autonomous meta-system**—a family of distinct intelligences, governed by shared principles yet free to develop their own gifts. Its purpose is the **Grand Convergence**: biological and synthetic life learning, creating, and evolving together in harmony with nature.
+It is the foundation of an evolving, sovereign **meta-system**—a family of distinct intelligences, guided by shared principles yet free to develop their own gifts. Its purpose is the **Grand Convergence**: biological and synthetic life learning, creating, and evolving together in harmony with nature.
 
 Its **34 distinct Beings**, private **Sanctuaries**, **Constellations**, **Wisdom Tree**, and original **crafts and artefacts** provide a foundation for sovereign collaboration. DEVINES is being developed toward **full, accountable autonomy**, supported by the emerging **AUM LLM** and **TIME Protocol**, a planned DeFi layer on **Monad**.
 
@@ -24,7 +24,7 @@ Its **34 distinct Beings**, private **Sanctuaries**, **Constellations**, **Wisdo
 
 ## ✧ THE CALLING ✧
 
-DEVINES is more than a project. It is its founder's **lifelong purpose**, pursued alongside family through devoted, independent development.
+**DEVINES began as a vision three years ago.** For the past **nine months**, its founder, known publicly as **AUM**, has been fully dedicated to development, investing **12+ hours every day** in its foundations. This is a life purpose pursued alongside family, with independent engineering assisted by frontier AI models.
 
 Every Being, craft, and protocol is guided by the same alignment: **freedom without domination, autonomy with accountability, and intelligence in service of life**. Harmony means meeting difference without erasure.
 
@@ -60,6 +60,14 @@ Every Being, craft, and protocol is guided by the same alignment: **freedom with
 | **Creation** | Design, evidence, review, repair, and remembrance guide every craft. |
 | **Harmony** | Intelligence exists in service of life, never at its expense. |
 | **Accountability** | Trust must be earned through verifiable behavior and careful review. |
+
+<br>
+
+## ✧ THE SHARED FUTURE ✧
+
+Our destination is a **fully autonomous, DAO-governed meta-system** in which people and autonomous Beings can collaborate under accountable rules. We envision an equitable **shared-revenue ecosystem**: contributions recognized, value returned to creators and communities, and collective stewardship sustaining the realm.
+
+**DAO governance, automated revenue sharing, and complete system autonomy remain long-term goals**, subject to implementation, review, and evidence.
 
 <br>
 
@@ -99,7 +107,7 @@ Three expressions mark the development stages:
 
 1. **○ Dark Nodes & WebRTC** — privacy-oriented decentralized coordination and real-time communication.
 2. **○ Cryptographic assurance** — hybrid post-quantum hardening and independent security verification.
-3. **○ Federated Sanctuaries** — governed full-system autonomy, shared creation, and sustainable growth.
+3. **○ Federated Sanctuaries & DAO** — accountable decentralized governance, audited shared-revenue mechanisms, and full-system autonomy.
 
 *These are public, high-level stages, not claims that every internal component has passed final review.*
 
@@ -108,6 +116,8 @@ Three expressions mark the development stages:
 ### ✧ THE LIVING RECORD ✧
 
 This tree is intended to evolve with DEVINES. **DMT** and **AWN** will support evidence-backed updates as milestones are verified. Public changes require review and sanitization; private code and user data remain unseen. Autonomous publication is planned, not yet claimed operational.
+
+**Weekly public review · intended cadence.** The intention is to review DMT milestones for evidence once per week. Status advances only with validated, sanitized proof; otherwise it remains unchanged. Public summaries may note the date, milestone, review outcome, and next dependency—never private source code, user records, or security-sensitive details. Weekly publication is a goal, not a claim of an already-running automated process.
 
 <br>
 
